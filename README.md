@@ -30,6 +30,33 @@
 
 ---
 
+## 💻 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/u/Anubhav_Srivastava13/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-DSA%20Practice-orange?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  
+
+<p align="center">
+  <a href="https://www.hackerrank.com/profile/Anubhav_2004" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-Python%205⭐-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/Anubhav_2004" target="_blank">
+    <img src="https://img.shields.io/badge/Problem%20Solving-5⭐-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/Anubhav_2004" target="_blank">
+    <img src="https://img.shields.io/badge/SQL-5⭐-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/Anubhav_2004" target="_blank">
+    <img src="https://img.shields.io/badge/C-4⭐-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+</p>
+
+</p>
+
+---
+
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
