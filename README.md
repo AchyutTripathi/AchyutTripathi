@@ -117,8 +117,18 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://leetcard.jacoblin.cool/AchyutTripathi?theme=dark&font=Fira%20Code&ext=contest" width="380"/>
-    </td>
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://leetcard.jacoblin.cool/Achyut_Tripathi?theme=dark&font=Fira%20Code&ext=contest"
+    >
+    <img 
+      src="https://leetcard.jacoblin.cool/Achyut_Tripathi?theme=light&font=Fira%20Code&ext=contest" 
+      width="380"
+      alt="LeetCode Stats"
+    >
+  </picture>
+</td>
     <td align="center">
       <img src="https://codeforces-readme-stats.vercel.app/api/card?username=achyuttripathi06" width="380"/>
     </td>
