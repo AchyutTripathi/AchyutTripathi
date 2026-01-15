@@ -81,7 +81,7 @@
       <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="40"/><br/>JavaScript</td>
       <td align="center"><img src="https://skillicons.dev/icons?i=html" width="40"/><br/>HTML</td>
       <td align="center"><img src="https://skillicons.dev/icons?i=css" width="40"/><br/>CSS</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="40"/><br/>Firebase</td>
+      <!-- <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="40"/><br/>Firebase</td -->
     </tr>
     <tr>
       <td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="40"/><br/>React</td>
