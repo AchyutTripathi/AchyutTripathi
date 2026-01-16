@@ -40,6 +40,9 @@
 
 <p align="center">
   <a href="https://www.hackerrank.com/profile/2k22_cscys_22136 target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-Java%205⭐-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/2k22_cscys_22136 target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-Python%205⭐-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
   <a href="https://www.hackerrank.com/profile/2k22_cscys_22136" target="_blank">
