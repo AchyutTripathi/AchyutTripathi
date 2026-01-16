@@ -39,16 +39,16 @@
   
 
 <p align="center">
-  <a href="https://www.hackerrank.com/profile/Anubhav_2004" target="_blank">
+  <a href="https://www.hackerrank.com/profile/2k22_cscys_22136 target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-Python%205⭐-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
-  <a href="https://www.hackerrank.com/profile/Anubhav_2004" target="_blank">
+  <a href="https://www.hackerrank.com/profile/2k22_cscys_22136" target="_blank">
     <img src="https://img.shields.io/badge/Problem%20Solving-5⭐-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
-  <a href="https://www.hackerrank.com/profile/Anubhav_2004" target="_blank">
+  <a href="https://www.hackerrank.com/profile/2k22_cscys_22136" target="_blank">
     <img src="https://img.shields.io/badge/SQL-5⭐-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
-  <a href="https://www.hackerrank.com/profile/Anubhav_2004" target="_blank">
+  <a href="https://www.hackerrank.com/profile/2k22_cscys_22136" target="_blank">
     <img src="https://img.shields.io/badge/C-4⭐-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
 </p>
